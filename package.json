@@ -22,5 +22,7 @@
     "jade": "*",
     "mysql": "*",
     "async": "*",
-    "node-uuid": "*"  }
+    "node-uuid": "*"  
+  },
+  "engines": { "node" : "12.16.1" }
 }
