@@ -18,6 +18,9 @@
   },
   "homepage": "https://github.com/maratnek/express-simple#readme",
   "dependencies": {
-    "express": "^4.17.1"
-  }
+    "express": "^4.17.1",
+    "jade": "*",
+    "mysql": "*",
+    "async": "*",
+    "node-uuid": "*"  }
 }
